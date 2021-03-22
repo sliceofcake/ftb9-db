@@ -1,0 +1,47 @@
+{
+	"type" : "index",
+	"person-collection" : [
+		{
+			"comment" : "sliceofcake-kern",
+			"url"     : "feelthebeats.se/kern/sigma/user/sliceofcake.txt"
+		},
+		{
+			"comment" : "sliceofcake-github",
+			"url"     : "raw.githubusercontent.com/sliceofcake/my-ftb9-files/master/user/sliceofcake.txt"
+		},
+		{
+			"comment" : "sliceofcake-github (tutorial)",
+			"url"     : "raw.githubusercontent.com/sliceofcake/my-ftb9-files-2/main/profile.txt"
+		},
+		{
+			"comment" : "sliceofcake",
+			"url"     : "feelthebeats.se/gomi/sigma-sandbox/sliceofcake/public/sliceofcake.txt"
+		},
+		{
+			"comment" : "lenfried",
+			"service" : "googledrive",
+			"id"      : "1gJYTTxTM20lWlNpHdJC4mFR7xCsyG6c1"
+		},
+		{
+			"comment" : "museum-bookkid900",
+			"service" : "googledrive",
+			"id"      : "1HNPdOa38UU0dUrASHTX_npXFNunEhkwa"
+		},
+		{
+			"comment" : "museum-hannanos",
+			"service" : "googledrive",
+			"id"      : "1-gi2LrWeAo-RqNt7etopowE7hYJt6bQG"
+		},
+		{
+			"comment" : "museum-Lockiex3",
+			"service" : "googledrive",
+			"id"      : "1tTd4PDkRJKEkuz4eDj2r4vMBdT97VjQx"
+		}
+	],
+	"TRASH-person-collection" : [
+		{
+			"comment" : "ftb4-museum",
+			"url"     : "feelthebeats.se/gomi/sigma-sandbox/ftb4-museum/public/ftb4-museum.txt"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"title" : "Test Pattern 0",
+	"origin" : "FtB9 Test Pattern Collection",
+	"creator" : "sliceofcake",
+	"info" : "This is a test chart for audio/video synchronization.",
+	"charter" : "feelthebeats.se/kern/sigma/user/sliceofcake.txt",
+	"icon" : "feelthebeats.se/kern/sigma/chart/tester-0/favicon.png",
+	"audio" : "feelthebeats.se/kern/sigma/chart/tester-0/ftbTester.wav",
+	"chart" : "feelthebeats.se/kern/sigma/chart/tester-0/ftbTester.txt"
+}

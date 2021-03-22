@@ -1,0 +1,9 @@
+{
+	"name" : "sliceofcake",
+	"chart-collection" : [
+		{
+			"comment" : "tester-0",
+			"url" : "feelthebeats.se/kern/sigma/chart/tester-0/meta.txt"
+		}
+	]
+}
