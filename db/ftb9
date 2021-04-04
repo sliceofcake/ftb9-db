@@ -18,6 +18,10 @@
 			"url"     : "feelthebeats.se/gomi/sigma-sandbox/sliceofcake/public/sliceofcake.txt"
 		},
 		{
+			"comment" : "sliceofcake-semi-sigma",
+			"url"     : "raw.githubusercontent.com/sliceofcake/ftb9-semi-sigma/main/user.txt"
+		},
+		{
 			"comment" : "lenfried",
 			"service" : "googledrive",
 			"id"      : "1gJYTTxTM20lWlNpHdJC4mFR7xCsyG6c1"
