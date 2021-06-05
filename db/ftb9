@@ -2,10 +2,6 @@
 	"type" : "index",
 	"person-collection" : [
 		{
-			"comment" : "sliceofcake",
-			"url"     : "feelthebeats.se/gomi/sigma-sandbox/sliceofcake/public/sliceofcake.txt"
-		},
-		{
 			"comment" : "sliceofcake-semi-sigma",
 			"url"     : "raw.githubusercontent.com/sliceofcake/ftb9-semi-sigma/main/user.txt"
 		}
@@ -18,6 +14,10 @@
 		{
 			"comment" : "ftb4-museum",
 			"url"     : "feelthebeats.se/gomi/sigma-sandbox/ftb4-museum/public/ftb4-museum.txt"
+		},
+		{
+			"comment" : "sliceofcake",
+			"url"     : "feelthebeats.se/gomi/sigma-sandbox/sliceofcake/public/sliceofcake.txt"
 		},
 		{
 			"comment" : "sliceofcake-github",
