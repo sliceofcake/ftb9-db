@@ -2,6 +2,10 @@
 	"type" : "index",
 	"person-collection" : [
 		{
+			"comment" : "lordxphantom-semi-sigma",
+			"url"     : "raw.githubusercontent.com/LordxPhantom/ftb9-semi-sigma/main/user.txt"
+		},
+		{
 			"comment" : "sliceofcake-semi-sigma",
 			"url"     : "raw.githubusercontent.com/sliceofcake/ftb9-semi-sigma/main/user.txt"
 		},
